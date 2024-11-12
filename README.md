@@ -1,11 +1,5 @@
-# butano-pong
+# GBA Pong using Butano
  
-An example of how to use Butano.
+Originally cloned from https://github.com/EHowardHill/butano-pong/tree/main
 
-Navigate to:
-
-1. games
-2. pong
-3. src
-
-And locate `main.cpp` to read more!
+Working on running on local WSL environment
